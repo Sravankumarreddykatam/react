@@ -1,0 +1,35 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.search input
+{
+    border: 1px solid lightgray;
+    height:38px;
+    width: 480px;
+    border-radius: 22px;
+    padding-left: 15px;
+    outline: none;
+}
+.search input:focus
+{
+    border-color: blue;
+}
+.options a
+{   color: blue;
+    padding: 15px;
+    border-radius: 20px;
+    margin: 5px;
+    border: 1px solid rgb(251,244, 244);
+    background-color: white;
+}
+.options a:focus
+{
+ 
+    cursor:pointer;
+}
+.options a:hover
+{
+    background-color: rgb(105, 193, 223); 
+}

@@ -1,0 +1,20 @@
+.Categories_link{
+    text-align: center;
+    margin: 18px 0px;
+}
+
+
+.Categories_link a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    margin: 0px 10px;
+    background-color: rgb(236, 236,236);
+    padding: 5px 7px;
+    border-radius: 6px;
+
+}
+.Categories_link a:hover
+{
+    background-color: rgb(226,226,226)
+}
